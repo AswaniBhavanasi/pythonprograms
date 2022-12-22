@@ -1,0 +1,5 @@
+Mr.Nani,nani@gmail.com,9010607080,AB 12 XY 1234,5-10-1999,Tcs Company,ASDFG1234W
+Wipro Company,Mr.Satya,XY 12 TY 5678,9876543211,WERTY4567Y,12-12-2000,satya@gmail.com
+rohan_123@gmail.com,8787878787,Mrs.keerthi,08-10-1999,Infosys Company,AP 12 ER 1234,ERTYU1234R
+DFGHY8765W,15-07-1998,CTS Company,8179817681,dhoni@gmail.com,OD 12 XY 1234,Mr.Dhoni
+9010203040,10-10-99,ABCDE1234E,OD 12 UT  9876,kohli.virat@gmail.com,BCCI Company,Mr.Kohli
